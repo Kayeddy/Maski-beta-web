@@ -1,0 +1,206 @@
+{
+  "Home": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "faq": "FAQ",
+      "privacy": "Privacy"
+    },
+    "title": "Connect2Pet",
+    "slogan": "Connect lifes, save them",
+    "description": "Connect2Pet offers a swipe-to-match experience, playfully linking future pet owners with adoptable animals in a seamless, Tinder-like adoption journey."
+  },
+  "About": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "faq": "FAQ",
+      "privacy": "Privacy"
+    },
+    "description": "Connect2Pet is a web application that connects future pet owners with adoptable animals in a seamless, Tinder-like adoption journey."
+  },
+  "FAQ": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "faq": "FAQ",
+      "privacy": "Privacy"
+    },
+    "title": "FAQ",
+    "questions": {
+      "question1": "What is Connect2Pet?",
+      "answer1": "Connect2Pet is a web application that connects future pet owners with adoptable animals in a seamless, Tinder-like adoption journey.",
+      "question2": "How does Connect2Pet work?",
+      "answer2": "When completing your profile and according to your preferences, we use our data-based algorithm to provide you with pet profiles that best suit you so that you can like that pet that you like so much. Then, the caretaker of that animal will review your profile and if he or she analyzes that you are the ideal candidate, he or she will swipe to the right, resulting in a match. Then, from the chat on our platform you can begin the adoption process.",
+      "question3": "How do I get started?",
+      "answer3": "To get started, simply create an account with your email and password. Once you have created an account, you can start swiping through adoptable animals in your area.",
+      "question4": "How do I adopt an animal?",
+      "answer4": "To adopt an animal, simply swipe right on the animal's profile. If the pet holder approves your request, you will be connected with the animal's profile and can begin the adoption process.",
+      "question5": "How do I create an account?",
+      "answer5": "To create an account, simply use your email and password or start with any other provider like Google.",
+      "question6": "Can I use Connect2Pet even if I don't desire to adopt a pet?",
+      "answer6": "Absolutely, that's why you can create an account with just your email and password."
+    }
+  },
+  "Privacy": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "faq": "FAQ",
+      "privacy": "Privacy"
+    },
+    "title": "Privacy Policy",
+    "description": "Connect2Pet is a web application that connects future pet owners with adoptable animals in a seamless, Tinder-like adoption journey."
+  },
+  "Hub": {
+    "navigation": {
+      "pets": "Pets",
+      "chats": "Chats",
+      "likesMatches": "Likes and Matches",
+      "hallFame": "Hall Of Fame",
+      "signOut": "Sign Out"
+    },
+    "Chats": {
+      "chatSidebar": {
+        "searchChat": "Search chat",
+        "have": "YOU HAVE",
+        "pendingMatches": "PENDING MATCHES",
+        "pendingMatch": "PENDING MATCH",
+        "contacts": "CONTACTS",
+        "contact": "CONTACT"
+      },
+      "header": "Macth, chat, adopt and change your life",
+      "chatInvitation": "Chat with your match!",
+      "chat": {
+        "typeMessage": "Write a message to",
+        "send": "Send"
+      },
+      "holderSidebar": {
+        "memberSince": "MEMBER SINCE",
+        "additionalInfo": "ADDITIONAL INFO",
+        "has": "Has",
+        "animals": "animals left to be adopted",
+        "animal": "animal left to be adopted",
+        "noConcretatedAdoptions": "Just started to save lives",
+        "concretatedAdoptions": "concretated adoptions",
+        "report": "Report user"
+      }
+    }
+  },
+  "Onboarding": {
+    "welcomeConnect2Pet": "Welcome to Connect2Pet!",
+    "fillDetails": "Fill in your details below so we can know you a little better!",
+    "adopterOnboardingForm": {
+      "firstName": "First Name",
+      "middleName": "Middle Name",
+      "lastName": "Last Name",
+      "description": "A little description about you",
+      "dateOfBirth": "Date of birth",
+      "country": "Country",
+      "neighborhood": "Neighborhood/Street",
+      "departmentProvince": "Department, State or Province",
+      "city": "City",
+      "userPreferences": {
+        "askForMoreDetails": "Just to bring you the best matches, we need to know a little more about you. Please, answer the following questions:",
+        "animalSpecies": "In what specie(s) of animal(s) are you interested in?",
+        "species": {
+          "dog": "Dog",
+          "cat": "Cat",
+          "bird": "Bird",
+          "rabbit": "Rabbit",
+          "rodent": "Rodent",
+          "fish": "Fish",
+          "turtle": "Turtle",
+          "horse": "Horse",
+          "pig": "Pig"
+        },
+        "genderPreferenceQuestion": "Any gender preference?",
+        "genders": {
+          "male": "Male",
+          "female": "Female",
+          "both": "Both"
+        },
+        "agePreferenceQuestion": "Any age preference?",
+        "ages": {
+          "baby": "Baby (0 months - 1 year)",
+          "young": "Young (1 - 3 years)",
+          "adult": "Adult (3 - 7 years)",
+          "senior": "Senior (7 + years)",
+          "any": "Any"
+        },
+        "colorsQuestion": "How'd you like your pet to look like?",
+        "colors": {
+          "oneColor": "One Color",
+          "multiColor": "Multicolor",
+          "Both": "Both"
+        },
+        "sizesQuestion": "Which size would you like your future pet to have?",
+        "sizes": {
+          "small": "Small",
+          "medium": "Medium",
+          "large": "Large",
+          "any": "Any"
+        },
+        "preferredAnimalPersonality": "How would you like your pet's personality to be?",
+        "personalities": {
+          "shy": "Shy",
+          "quiet": "Quiet",
+          "friendly": "Friendly",
+          "protector": "Protector",
+          "brisk": "Brisk",
+          "playful": "Playful",
+          "any": "Any"
+        },
+        "physicalConditions": "Tell us about the physical conditions you'd prefer in your future pet",
+        "conditions": {
+          "healthy": "Healthy",
+          "disabled": "Disabled",
+          "hypoallergenic": "Hypoallergenic",
+          "longFur": "Long fur",
+          "shortFur": "Short fur",
+          "specialTreatment": "Requires special medical treatment",
+          "any": "Any"
+        },
+        "animalTrainingQuestion": "Select your future pet training level",
+        "animalTrainingLevels": {
+          "trained": "Trained",
+          "inProcess": "In process",
+          "untrained": "Untrained",
+          "any": "Any"
+        },
+        "suitableToLiveWithAnimals": "Do you want your pet to be suitable to live with other animals?",
+        "liveWithOtherAnimals": {
+          "yes": "Yes",
+          "not": "Not",
+          "any": "Any"
+        },
+        "suitableToLiveWithKids": "Do you want your pet to be suitable to live with other animals?",
+        "liveWithOtherKids": {
+          "yes": "Yes",
+          "not": "Not",
+          "any": "Any"
+        }
+      }
+    },
+    "OrganizationOnboardingForm": {
+      "introSentence": "Great! Let us help you with your cause. Please, fill in the details below so we can know you a little better!",
+      "individualPetHolder": {
+        "encouragePerson": "Let us know who you are!",
+        "firstName": "First Name",
+        "middleName": "Middle Name",
+        "lastName": "Last Name",
+        "description": "A little description about you",
+        "dateOfBirth": "Date of birth",
+        "country": "Country",
+        "departmentProvince": "Department, State or Province",
+        "city": "City",
+        "neighborhood": "Neighborhood/Street"
+      },
+      "organizationPetHolder": {
+        "organizationName": "Organization Name",
+        "description": "A little description about you",
+        "organizationAddress": "Organization Address"
+      }
+    }
+  }
+}

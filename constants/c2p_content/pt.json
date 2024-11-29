@@ -1,0 +1,206 @@
+{
+    "Home": {
+        "navigation": {
+            "home": "Início",
+            "about": "Sobre",
+            "faq": "Perguntas Frequentes",
+            "privacy": "Privacidade"
+        },
+        "title": "Connect2Pet",
+        "slogan": "Conectar vidas, salvar vidas",
+        "description": "Connect2Pet oferece uma experiência de emparelhamento Swipe-to-match, conectando-te de forma lúdica e única com animais adotáveis ao estilo Tinder."
+    },
+    "About": {
+        "navigation": {
+            "home": "Início",
+            "about": "Sobre",
+            "faq": "Perguntas Frequentes",
+            "privacy": "Privacidade"
+        },
+        "description": "Connect2Pet é uma aplicação web que conecta futuros donos de pets com animais adotáveis em uma jornada de adoção sem complicações, ao estilo Tinder."
+    },
+    "FAQ": {
+        "navigation": {
+            "home": "Início",
+            "about": "Sobre",
+            "faq": "Perguntas Frequentes",
+            "privacy": "Privacidade"
+        },
+        "title": "Perguntas Frequentes",
+        "questions": {
+            "question1": "O que é Connect2Pet?",
+            "answer1": "Connect2Pet é uma aplicação web que conecta futuros donos de pets com animais adotáveis em uma jornada de adoção sem complicações, ao estilo Tinder.",
+            "question2": "Como funciona o Connect2Pet?",
+            "answer2": "Ao completar seu perfil e de acordo com suas preferências, usamos nosso algoritmo baseado em dados para fornecer perfis de pets que mais combinam com você para que você dê like naquele pet que tanto gosta. Depois, o cuidador desse animalzinho revisará seu perfil e, se achar que você é o candidato ideal, deslizará para a direita, resultando em um match, e então, pelo chat de nossa plataforma, você poderá começar o processo de adoção.",
+            "question3": "Como começo?",
+            "answer3": "Para começar, simplesmente crie uma conta com seu email e senha. Uma vez que tenha criado uma conta, você pode começar a deslizar pelos animais adotáveis em sua área.",
+            "question4": "Como adoto um animal?",
+            "answer4": "Para adotar um animal, simplesmente deslize para a direita no perfil do animal. Se o detentor do pet aprovar seu pedido, você será conectado ao perfil do animal e poderá começar o processo de adoção.",
+            "question5": "Como crio uma conta?",
+            "answer5": "Para criar uma conta, simplesmente use seu email e senha ou comece com outro fornecedor como o Google.",
+            "question6": "Posso usar o Connect2Pet mesmo se não desejar adotar um pet?",
+            "answer6": "Absolutamente, por isso você pode criar uma conta apenas com seu email e senha."
+        }
+    },
+    "Privacy": {
+        "navigation": {
+            "home": "Início",
+            "about": "Sobre",
+            "faq": "Perguntas Frequentes",
+            "privacy": "Privacidade"
+        },
+        "title": "Política de Privacidade",
+        "description": "Connect2Pet é uma aplicação web que conecta futuros donos de pets com animais adotáveis em uma jornada de adoção sem complicações, ao estilo Tinder."
+    },
+    "Hub": {
+        "navigation": {
+            "pets": "Pets",
+            "chats": "Chats",
+            "likesMatches": "Likes e Matches",
+            "hallFame": "Salão da Fama",
+            "signOut": "Sair"
+        },
+        "Chats": {
+            "chatSidebar": {
+                "searchChat": "Buscar chat",
+                "have": "VOCÊ TEM",
+                "pendingMatches": "MATCHES PENDENTES",
+                "pendingMatch": "MATCH PENDENTE",
+                "contacts": "CONTATOS",
+                "contact": "CONTATO"
+            },
+            "header": "Faça match, converse, adote e mude sua vida",
+            "chatInvitation": "Converse com seu match!",
+            "chat": {
+                "typeMessage": "Escreva uma mensagem para",
+                "send": "Enviar"
+            },
+            "holderSidebar": {
+                "memberSince": "MEMBRO DESDE",
+                "additionalInfo": "INFORMAÇÃO ADICIONAL",
+                "has": "Tem",
+                "animals": "animais restantes para serem adotados",
+                "animal": "animal restante para ser adotado",
+                "noConcretatedAdoptions": "Acabou de começar a salvar vidas",
+                "concretatedAdoptions": "adoções concretizadas",
+                "report": "Reportar usuário"
+            }
+        }
+    },
+    "Onboarding": {
+        "welcomeConnect2Pet": "Bem-vindo ao Connect2Pet!",
+        "fillDetails": "Preencha seus detalhes abaixo para que possamos conhecer você um pouco melhor!",
+        "adopterOnboardingForm": {
+            "firstName": "Nome",
+            "middleName": "Nome do Meio",
+            "lastName": "Sobrenome",
+            "description": "Uma breve descrição sobre você",
+            "dateOfBirth": "Data de Nascimento",
+            "country": "País",
+            "departmentProvince": "Departamento, Estado ou Província",
+            "city": "Cidade",
+            "neighborhood": "Bairro/Rua",
+            "userPreferences": {
+                "askForMoreDetails": "Apenas para trazer as melhores correspondências, precisamos saber um pouco mais sobre você. Por favor, responda às seguintes perguntas:",
+                "animalSpecies": "Em que espécie(s) de animal(is) você está interessado?",
+                "species": {
+                    "dog": "Cão",
+                    "cat": "Gato",
+                    "bird": "Ave",
+                    "rabbit": "Coelho",
+                    "rodent": "Roedor",
+                    "fish": "Peixe",
+                    "turtle": "Tartaruga",
+                    "horse": "Cavalo",
+                    "pig": "Porco"
+                },
+                "genderPreferenceQuestion": "Alguma preferência de gênero?",
+                "genders": {
+                    "male": "Macho",
+                    "female": "Fêmea",
+                    "both": "Ambos"
+                },
+                "agePreferenceQuestion": "Alguma preferência de idade?",
+                "ages": {
+                    "baby": "Bebê (0 meses - 1 ano)",
+                    "young": "Jovem (1 - 3 anos)",
+                    "adult": "Adulto (3 - 7 anos)",
+                    "senior": "Idoso (7 + anos)",
+                    "any": "Qualquer"
+                },
+                "colorsQuestion": "Como você gostaria que fosse a aparência do seu animal de estimação?",
+                "colors": {
+                    "oneColor": "Uma Cor",
+                    "multiColor": "Multicor",
+                    "Both": "Ambos"
+                },
+                "sizesQuestion": "Qual tamanho você gostaria que o seu futuro animal de estimação tivesse?",
+                "sizes": {
+                    "small": "Pequeno",
+                    "medium": "Médio",
+                    "large": "Grande",
+                    "any": "Qualquer"
+                },
+                "preferredAnimalPersonality": "Como você gostaria que fosse a personalidade do seu animal de estimação?",
+                "personalities": {
+                    "shy": "Tímido",
+                    "quiet": "Calmo",
+                    "friendly": "Amigável",
+                    "protector": "Protetor",
+                    "brisk": "Ágil",
+                    "playful": "Brincalhão",
+                    "any": "Qualquer"
+                },
+                "physicalConditions": "Conte-nos sobre as condições físicas que você prefere em seu futuro animal de estimação",
+                "conditions": {
+                    "healthy": "Saudável",
+                    "disabled": "Deficiente",
+                    "hypoallergenic": "Hipoalergênico",
+                    "longFur": "Pelo longo",
+                    "shortFur": "Pelo curto",
+                    "specialTreatment": "Requer tratamento médico especial",
+                    "any": "Qualquer"
+                },
+                "animalTrainingQuestion": "Selecione o nível de treinamento do seu futuro animal de estimação",
+                "animalTrainingLevels": {
+                    "trained": "Treinado",
+                    "inProcess": "Em processo",
+                    "untrained": "Não treinado",
+                    "any": "Qualquer"
+                },
+                "suitableToLiveWithAnimals": "Você quer que seu animal de estimação seja adequado para viver com outros animais?",
+                "liveWithOtherAnimals": {
+                    "yes": "Sim",
+                    "not": "Não",
+                    "any": "Qualquer"
+                },
+                "suitableToLiveWithKids": "Você quer que seu animal de estimação seja adequado para viver com crianças?",
+                "liveWithOtherKids": {
+                    "yes": "Sim",
+                    "not": "Não",
+                    "any": "Qualquer"
+                }
+            }
+        },
+        "OrganizationOnboardingForm": {
+            "introSentence": "Ótimo! Deixe-nos ajudar com a sua causa. Por favor, preencha os detalhes abaixo para que possamos conhecer você um pouco melhor.",
+            "individualPetHolder": {
+                "encouragePerson": "Deixe-nos conhecer você!",
+                "firstName": "Nome",
+                "middleName": "Nome do Meio",
+                "lastName": "Sobrenome",
+                "description": "Uma breve descrição sobre você",
+                "dateOfBirth": "Data de Nascimento",
+                "country": "País",
+                "departmentProvince": "Departamento, Estado ou Província",
+                "city": "Cidade",
+                "neighborhood": "Bairro/Rua"
+            },
+            "organizationPetHolder": {
+                "organizationName": "Nome da Organização",
+                "description": "Uma breve descrição sobre você",
+                "organizationAddress": "Endereço da Organização"
+            }
+        }
+    }
+}

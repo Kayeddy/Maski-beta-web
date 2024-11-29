@@ -1,0 +1,17 @@
+.nav-container-bg {
+  background: rgba(255, 255, 255, 0.01);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.navContent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  gap: 1rem;
+  @media (max-width: 300px) {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,206 @@
+{
+    "Home": {
+        "navigation": {
+            "home": "Inicio",
+            "about": "Acerca de",
+            "faq": "Preguntas Frecuentes",
+            "privacy": "Privacidad"
+        },
+        "title": "Connect2Pet",
+        "slogan": "Conectar vidas, salvarlas",
+        "description": "Connect2Pet ofrece una experiencia de emparejamiento de tipo Swipe-to-match, conectándote de manera lúdica y única con animales adoptables al estilo Tinder."
+    },
+    "About": {
+        "navigation": {
+            "home": "Inicio",
+            "about": "Acerca de",
+            "faq": "Preguntas Frecuentes",
+            "privacy": "Privacidad"
+        },
+        "description": "Connect2Pet es una aplicación web que conecta a futuros dueños de mascotas con animales adoptables en un viaje de adopción sin complicaciones, al estilo de Tinder."
+    },
+    "FAQ": {
+        "navigation": {
+            "home": "Inicio",
+            "about": "Acerca de",
+            "faq": "Preguntas Frecuentes",
+            "privacy": "Privacidad"
+        },
+        "title": "Preguntas Frecuentes",
+        "questions": {
+            "question1": "¿Qué es Connect2Pet?",
+            "answer1": "Connect2Pet es una aplicación web que conecta a futuros dueños de mascotas con animales adoptables en un viaje de adopción sin complicaciones, al estilo de Tinder.",
+            "question2": "¿Cómo funciona Connect2Pet?",
+            "answer2": "Al completar tu perfil y según tus preferencias, usamos nuestro algoritmo basado en datos para brindarte perfiles de mascotas que más se ajusten a ti para que le des like a esa mascota que tanto te guste. Luego, el cuidador de ese animalito revisará tu perfil y si analiza que eres el candidato ideal deslizará hacia la derecha dando lugar a un match, entonces, desde el chat de nuestra plataforma podrás comenzar el proceso de adopción.",
+            "question3": "¿Cómo empiezo?",
+            "answer3": "Para empezar, simplemente crea una cuenta con tu correo electrónico y contraseña. Una vez que hayas creado una cuenta, puedes empezar a deslizar entre los animales adoptables en tu área.",
+            "question4": "¿Cómo adopto un animal?",
+            "answer4": "Para adoptar un animal, simplemente desliza hacia la derecha en el perfil del animal. Si el poseedor de la mascota aprueba tu solicitud, serás conectado con el perfil del animal y podrás comenzar el proceso de adopción.",
+            "question5": "¿Cómo creo una cuenta?",
+            "answer5": "Para crear una cuenta, simplemente utiliza tu correo electrónico y contraseña o empieza con algún otro proveedor como Google.",
+            "question6": "¿Puedo usar Connect2Pet incluso si no deseo adoptar una mascota?",
+            "answer6": "Absolutamente, por eso puedes crear una cuenta solo con tu correo electrónico y contraseña."
+        }
+    },
+    "Privacy": {
+        "navigation": {
+            "home": "Inicio",
+            "about": "Acerca de",
+            "faq": "Preguntas Frecuentes",
+            "privacy": "Privacidad"
+        },
+        "title": "Política de Privacidad",
+        "description": "Connect2Pet es una aplicación web que conecta a futuros dueños de mascotas con animales adoptables en un viaje de adopción sin complicaciones, al estilo de Tinder."
+    },
+    "Hub": {
+        "navigation": {
+            "pets": "Mascotas",
+            "chats": "Chats",
+            "likesMatches": "Likes y Matches",
+            "hallFame": "Salón de la Fama",
+            "signOut": "Cerrar Sesión"
+        },
+        "Chats": {
+            "chatSidebar": {
+                "searchChat": "Buscar chat",
+                "have": "TIENES",
+                "pendingMatches": "MATCHES PENDIENTES",
+                "pendingMatch": "MATCH PENDIENTE",
+                "contacts": "CONTACTOS",
+                "contact": "CONTACTO"
+            },
+            "header": "Haz match, chatea, adopta y cambia tu vida",
+            "chatInvitation": "¡Chatea con tu match!",
+            "chat": {
+                "typeMessage": "Escribe un mensaje a",
+                "send": "Enviar"
+            },
+            "holderSidebar": {
+                "memberSince": "MIEMBRO DESDE",
+                "additionalInfo": "INFO ADICIONAL",
+                "has": "Tiene",
+                "animals": "animales restantes por ser adoptados",
+                "animal": "animal restante por ser adoptado",
+                "noConcretatedAdoptions": "Acaba de empezar a salvar vidas",
+                "concretatedAdoptions": "adopciones concretadas",
+                "report": "Reportar usuario"
+            }
+        }
+    },
+    "Onboarding": {
+        "welcomeConnect2Pet": "¡Bienvenido a Connect2Pet!",
+        "fillDetails": "¡Rellena tus detalles a continuación para que podamos conocerte un poco mejor!",
+        "adopterOnboardingForm": {
+            "firstName": "Nombre",
+            "middleName": "Segundo Nombre",
+            "lastName": "Apellido",
+            "description": "Una pequeña descripción sobre ti",
+            "dateOfBirth": "Fecha de Nacimiento",
+            "country": "País",
+            "departmentProvince": "Departamento, Estado o Provincia",
+            "city": "Ciudad",
+            "neighborhood": "Barrio/Calle",
+            "userPreferences": {
+                "askForMoreDetails": "Solo para brindarte las mejores coincidencias, necesitamos saber un poco más sobre ti. Por favor, responde las siguientes preguntas:",
+                "animalSpecies": "¿En qué especie(s) de animal(es) estás interesado?",
+                "species": {
+                    "dog": "Perro",
+                    "cat": "Gato",
+                    "bird": "Ave",
+                    "rabbit": "Conejo",
+                    "rodent": "Roedor",
+                    "fish": "Pez",
+                    "turtle": "Tortuga",
+                    "horse": "Caballo",
+                    "pig": "Cerdo"
+                },
+                "genderPreferenceQuestion": "¿Tienes alguna preferencia de género?",
+                "genders": {
+                    "male": "Macho",
+                    "female": "Hembra",
+                    "both": "Ambos"
+                },
+                "agePreferenceQuestion": "¿Tienes alguna preferencia de edad?",
+                "ages": {
+                    "baby": "Bebé (0 meses - 1 año)",
+                    "young": "Joven (1 - 3 años)",
+                    "adult": "Adulto (3 - 7 años)",
+                    "senior": "Anciano (7+ años)",
+                    "any": "Cualquiera"
+                },
+                "colorsQuestion": "¿Cómo te gustaría que fuera el aspecto de tu mascota?",
+                "colors": {
+                    "oneColor": "Un Color",
+                    "multiColor": "Multicolor",
+                    "Both": "Ambos"
+                },
+                "sizesQuestion": "¿Qué tamaño te gustaría que tuviera tu futura mascota?",
+                "sizes": {
+                    "small": "Pequeño",
+                    "medium": "Mediano",
+                    "large": "Grande",
+                    "any": "Cualquiera"
+                },
+                "preferredAnimalPersonality": "¿Cómo te gustaría que fuera la personalidad de tu mascota?",
+                "personalities": {
+                    "shy": "Tímido",
+                    "quiet": "Tranquilo",
+                    "friendly": "Amigable",
+                    "protector": "Protector",
+                    "brisk": "Enérgico",
+                    "playful": "Juguetón",
+                    "any": "Cualquiera"
+                },
+                "physicalConditions": "Cuéntanos sobre las condiciones físicas que preferirías en tu futura mascota",
+                "conditions": {
+                    "healthy": "Saludable",
+                    "disabled": "Discapacitado",
+                    "hypoallergenic": "Hipoalergénico",
+                    "longFur": "Pelo largo",
+                    "shortFur": "Pelo corto",
+                    "specialTreatment": "Requiere tratamiento médico especial",
+                    "any": "Cualquiera"
+                },
+                "animalTrainingQuestion": "Selecciona el nivel de entrenamiento de tu futura mascota",
+                "animalTrainingLevels": {
+                    "trained": "Entrenado",
+                    "inProcess": "En proceso",
+                    "untrained": "Sin entrenar",
+                    "any": "Cualquiera"
+                },
+                "suitableToLiveWithAnimals": "¿Quieres que tu mascota sea apta para vivir con otros animales?",
+                "liveWithOtherAnimals": {
+                    "yes": "Sí",
+                    "not": "No",
+                    "any": "Cualquiera"
+                },
+                "suitableToLiveWithKids": "¿Quieres que tu mascota sea apta para vivir con niños?",
+                "liveWithOtherKids": {
+                    "yes": "Sí",
+                    "not": "No",
+                    "any": "Cualquiera"
+                }
+            }
+        },
+        "OrganizationOnboardingForm": {
+            "introSentence": "¡Genial! Déjanos ayudarte con tu causa. Por favor, rellena los detalles a continuación para que podamos conocerte un poco mejor.",
+            "individualPetHolder": {
+                "encouragePerson": "¡Permítenos conocerte!",
+                "firstName": "Nombre",
+                "middleName": "Segundo Nombre",
+                "lastName": "Apellido",
+                "description": "Una pequeña descripción sobre ti",
+                "dateOfBirth": "Fecha de Nacimiento",
+                "country": "País",
+                "departmentProvince": "Departamento, Estado o Provincia",
+                "city": "Ciudad",
+                "neighborhood": "Barrio/Calle"
+            },
+            "organizationPetHolder": {
+                "organizationName": "Nombre de la Organización",
+                "description": "Una pequeña descripción sobre ustedes",
+                "organizationAddress": "Dirección de la Organización"
+            }
+        }
+    }
+}

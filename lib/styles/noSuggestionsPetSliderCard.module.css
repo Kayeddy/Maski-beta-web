@@ -1,0 +1,33 @@
+body {
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background {
+  height: 400px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-repeat: repeat-x;
+  background-image: url("https://wallpapercave.com/wp/wp7495751.png");
+  background-size: 100% 100%;
+  background-position: 0px -120px;
+  animation: back 20s infinite linear;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cat {
+  height: 150px;
+  width: 150px;
+  overflow: hidden;
+  background-image: url("https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-2.gif");
+}
+@keyframes back {
+  100% {
+    background-position: 1000px -120px;
+  }
+}

@@ -1,0 +1,27 @@
+.sidebar {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 0px 10px 10px 0px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.noPointerEvents {
+  pointer-events: none;
+}
+
+.contentSeparator {
+  position: relative;
+  height: 2px;
+  background: transparent;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #fff, transparent);
+    transform: translateY(-50%);
+  }
+}
